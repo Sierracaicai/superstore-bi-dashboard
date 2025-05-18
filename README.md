@@ -29,29 +29,9 @@ Performed using Python (Pandas, Seaborn):
 All visualizations are integrated into one interactive dashboard layout.
 
 ## 📎 Snapshot
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](./Furniture_Profit_Dashboard.png)
 
 ## 🧰 Tools Used
 - **Python**: Pandas, Seaborn, Matplotlib
-- **Tableau Public**: Dashboard design and interactivity
+- **Tableau**: Dashboard design and interactivity
 
-## 📝 Folder Structure
-
-```
-furniture-profit-dashboard/
-├── README.md
-├── superstore_analysis.py
-├── superstore_cleaned.csv
-├── dashboard.png
-└── figures/
-    ├── sales_profit_subcat.png
-    ├── monthly_profit_trend.png
-    ├── region_profit.png
-    ├── customer_segment_profit.png
-    ├── shipping_efficiency.png
-    ├── ship_mode_loss.png
-    └── discount_vs_profit.png
-```
-
-## 🚀 Author
-Shiyu Cai | [LinkedIn](https://www.linkedin.com/in/shiyucaisierra/)
